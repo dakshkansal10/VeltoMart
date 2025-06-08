@@ -19,8 +19,8 @@ VeltoMart is a feature-rich full-stack e-commerce web application built with the
 
 ### 🧰 Tech Stack
 
-| Frontend | Backend | Database | Deployment |
-|----------|---------|----------|------------|
-| React.js (Vite) | Node.js + Express | MongoDB | Docker + Kubernetes |
+| Frontend |          Backend         | Database | 
+|----------|------------|-------------|
+| React.js (Vite) | Node.js + Express | MongoDB | 
 
 ---
